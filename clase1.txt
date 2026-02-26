@@ -1,0 +1,14 @@
+comandos 
+pwd=saber donde estoy parado
+ls=muestra las carpetas
+cd=moverse entre carpetas 
+cd ..=volver afuera 
+mkdir=crear carpeta
+git status=muestra los archivos que cambiaron
+git add=para añadir los archivos que quiero con push
+git commit -m=comentarios prerpara los archivos en el add para subirlos a git 
+git push origin main=subir todos los add 
+git rm= borra archivos
+git mv=mover o renombrar archivos
+python es lenguaje tipado dinámico=la variable se adapta segun el tipo de dato que le pasemos
+python es un lenguaje orientado a objetos     

@@ -1,0 +1,6 @@
+                                            Recursividad
+Caso base
+Caso recurrente
+Fin Recursividad
+máximo se debe llamar una vez a si mismo
+        
